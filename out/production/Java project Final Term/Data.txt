@@ -1,0 +1,6 @@
+
+Name                     : ds
+Age                      : 32
+Address                  : sd
+Total Bill(10% less)     : 0
+Total Bill(0%  less)     : 800 TK

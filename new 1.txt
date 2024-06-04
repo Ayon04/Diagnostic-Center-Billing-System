@@ -1,0 +1,70 @@
+1. Moral clarity
+
+Need to know something is wrong! Do not ignore problems!
+
+Loyalty to employer, responsibilities to public and environment (and complex relations between these)
+
+2 Know the facts
+
+Get hard, documented facts, discuss with others 
+
+Competence matters in gathering technical facts
+
+3 Consider options
+
+Diversity of actions to take? Evaluate/discuss.
+
+Long-term, short-term perspectives, repercussions? 
+
+"Creative middle solution"?
+
+
+4.Make a reasonable decision
+
+Weigh all factors, recognize "gray areas"/compromises 
+An engineering design problem?
+
+
+http://localhost/Project/mvc/view/Registration.php
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Side-by-Side Divs</title>
+    <style>
+        .container {
+            width: 100%;
+        }
+
+        .left-div, .right-div {
+            width: 50%;
+            display: inline-block;
+            vertical-align: top; /* Align the divs to the top of the container */
+        }
+
+        .left-div {
+            background-color: lightblue;
+        }
+
+        .right-div {
+            background-color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="left-div">
+        <h2>Left Div</h2>
+        <p>This is the left div content.</p>
+    </div><div class="right-div">
+        <h2>Right Div</h2>
+        <p>This is the right div content.</p>
+    </div>
+</div>
+
+</body>
+</html>
